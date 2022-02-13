@@ -1,4 +1,4 @@
-# AI_Movie_Recommendation_Engine
+# AI Movie Recommendation Engine
 
 Project that finds most similar movies for a selected movie using MovieLens dataset (100k/1 million).
 
